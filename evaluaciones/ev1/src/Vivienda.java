@@ -34,6 +34,7 @@ public class Vivienda {
         }
         this.superficieM2 = superficieM2;
     }
+
     public void setNumeroHabitaciones(int numeroHabitaciones) {
         if (numeroHabitaciones <= 0) {
             throw new IllegalArgumentException("El numero de habitaciones debe ser mayor a 0.");
@@ -41,12 +42,26 @@ public class Vivienda {
         this.numeroHabitaciones = numeroHabitaciones;
 
     }
+
     @Override
     public String toString() {
         return "Vivienda [Código: " + codigoPropiedad + ", Superficie: " + superficieM2 + " m²]";
     }
 
-}
+//Comentario:
+//Me percato que en algunos tipos de programación los datos y funciones van separados y se editan sin control, pero en java es totalmente distinto ya que se usan clases para poder cruzar los datos
+//Con estas reglas y tipos de datos  evitamos que alguien cree alguna vivienda con datos incorrectos y asi hacer que el sistema funcione sin problemas
 
-//En algunos tipos de programación  los datos y funciones van separados y se editan sin control, pero en java es totalmente distinto ya que se usan clases para poder cruzar los datos
-//Con estas reglas y tipos de datos  evitamos que alguien cree alguna vivienda con datos incorrectos
+
+//Ingreso de la parte 2 (respaldo)
+
+    public abstract double calcularCostoArriendo();
+
+    public double calcularCostoArriendo(double porcentajeDescuento) {
+        if (porcentajeDescuento < 0 || porcentajeDescuento > 100) {
+            throw new IllegalArgumentException("El porcentaje de descuento debe estar entre 0 y 100.");
+        }
+        double costoBase = calcularCostoArriendo();
+        return costoBase * (1.0 - (porcentajeDescuento / 100.0));
+    }
+}
