@@ -31,7 +31,7 @@ public class Departamento extends Vivienda implements ConEstacionamiento {
 
     @Override
     public double calcularCostoArriendo(){
-        return gastoComunAlDia ? 180000.0 : 180000.0 * 1.15;
+        return gastoComunAlDia ? 180000.0 : Math.round(180000.0 * 1.15);
     }
 
     @Override
