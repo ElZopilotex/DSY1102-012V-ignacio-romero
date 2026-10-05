@@ -1,4 +1,4 @@
-public class Vivienda {
+public abstract class Vivienda {
     private String codigoPropiedad;
     private double superficieM2;
     private int numeroHabitaciones;
@@ -50,7 +50,7 @@ public class Vivienda {
 
 //Comentario:
 //Me percato que en algunos tipos de programación los datos y funciones van separados y se editan sin control, pero en java es totalmente distinto ya que se usan clases para poder cruzar los datos
-//Con estas reglas y tipos de datos  evitamos que alguien cree alguna vivienda con datos incorrectos y asi hacer que el sistema funcione sin problemas
+//Con estas reglas y tipos de datos evitamos que alguien cree alguna vivienda con datos incorrectos y asi hacer que el sistema funcione sin problemas
 
 
 //Ingreso de la parte 2 (respaldo)
