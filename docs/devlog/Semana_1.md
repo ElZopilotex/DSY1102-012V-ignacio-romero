@@ -1,0 +1,3 @@
+- No entendí absolutamente nada y me preocupa el avance que perderé
+- Es un cambio muy grande a mi parecer de Python a Java sobre todo cuando estoy sin experiencia en al área de java
+- Mas Practica 
