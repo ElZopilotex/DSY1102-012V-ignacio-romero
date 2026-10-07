@@ -20,18 +20,15 @@ Este repositorio almacena el código fuente, documentaciones, devlogs y entregas
 
 ## Estructura del Proyecto
 
-```text
-DSY1102-012V-ignacio-romero/
-├── README.md               <-- Documentación principal
-├── .gitignore              <-- Filtro de archivos temporales de Git
-├── docs/                   <-- Documentación general del curso
-│   └── devlog/             <-- Diario de desarrollo semana a semana
-├── practica/               <-- Ejercicios y guías prácticas
-├── labs/                   <-- Guías y trabajos de laboratorio
-├── proyecto-formativo/     <-- Avances del proyecto semestral
-├── desafios/               <-- Desafíos propuestos en clase
-└── evaluaciones/           <-- Entregas de evaluaciones del curso
-    ├── evaluacion-1/       <-- Evaluación 1 (IntelliJ IDEA / Java)
-    ├── evaluacion-2/
-    ├── evaluacion-3/
-    └── evaluacion-4/
+- [.gitignore](.gitignore) - Filtro de archivos temporales de Git
+- [docs/](docs/) - Documentación general del curso
+  - [devlog/](docs/devlog/) - Diario de desarrollo semana a semana
+- [practica/](practica/) - Ejercicios y guías prácticas
+- [labs/](labs/) - Guías y trabajos de laboratorio
+- [proyecto-formativo/](proyecto-formativo/) - Avances del proyecto semestral
+- [desafios/](desafios/) - Desafíos propuestos en clase
+- [evaluaciones/](evaluaciones/) - Entregas de evaluaciones del curso
+  - [evaluacion-1/](evaluaciones/evaluacion-1/) - Evaluación 1 (IntelliJ IDEA / Java)
+  - [evaluacion-2/](evaluaciones/evaluacion-2/) - Evaluación 2
+  - [evaluacion-3/](evaluaciones/evaluacion-3/) - Evaluación 3
+  - [evaluacion-4/](evaluaciones/evaluacion-4/) - Evaluación 4
