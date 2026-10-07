@@ -22,7 +22,7 @@ Este repositorio almacena el código fuente, documentaciones, devlogs y entregas
 
 - [.gitignore](.gitignore) - Filtro de archivos temporales de Git
 - [docs/](docs/) - Documentación general del curso
-  - [devlog/](docs/devlog/) - Diario de desarrollo semana a semana
+- [devlog/](docs/devlog/) - Diario de desarrollo semana a semana
 - [practica/](practica/) - Ejercicios y guías prácticas
 - [labs/](labs/) - Guías y trabajos de laboratorio
 - [proyecto-formativo/](proyecto-formativo/) - Avances del proyecto semestral
