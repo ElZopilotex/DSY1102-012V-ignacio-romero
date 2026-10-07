@@ -28,7 +28,7 @@ Este repositorio almacena el código fuente, documentaciones, devlogs y entregas
 - [proyecto-formativo/](proyecto-formativo/) - Avances del proyecto semestral
 - [desafios/](desafios/) - Desafíos propuestos en clase
 - [evaluaciones/](evaluaciones/) - Entregas de evaluaciones del curso
-  - [evaluacion-1/](evaluaciones/evaluacion-1/) - Evaluación 1 (IntelliJ IDEA / Java)
-  - [evaluacion-2/](evaluaciones/evaluacion-2/) - Evaluación 2
-  - [evaluacion-3/](evaluaciones/evaluacion-3/) - Evaluación 3
-  - [evaluacion-4/](evaluaciones/evaluacion-4/) - Evaluación 4
+  - [Evaluación 1](evaluaciones/ev1/) - Evaluación 1 (IntelliJ IDEA / Java)
+  - [Evaluación 2](evaluaciones/ev2/) - Evaluación 2
+  - [Evaluación 3](evaluaciones/ev3/) - Evaluación 3
+  - [Evaluación 4](evaluaciones/eft/) - Examen Final
