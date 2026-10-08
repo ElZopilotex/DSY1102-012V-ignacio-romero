@@ -5,4 +5,4 @@
 
 -----
 
-Estado: en progreso
+Estado: en progreso.
