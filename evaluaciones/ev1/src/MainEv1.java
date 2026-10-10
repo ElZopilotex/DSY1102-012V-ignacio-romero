@@ -2,7 +2,7 @@ import java.util.List;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Main {
+public class MainEv1 {
     public static void main(String[] args) {
         GestorViviendas gestor = new GestorViviendas();
         Departamento propD01 = new Departamento("PROP-D01", 65, 3, 8, false);

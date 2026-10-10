@@ -8,7 +8,7 @@ public class Tigre extends Salvaje {
 
     @Override
     public void hacerSonido() {
-        System.out.println(this.nombre + " hace 'Grrr'");
+        System.out.println(this.nombre + " hace: Grrr");
     }
 
     public String getTipoRayas() {

@@ -8,7 +8,7 @@ public class Perro extends Mascota {
 
     @Override
     public void hacerSonido(){
-        System.out.println(this.nombre + "Dice Guau Guau");
+        System.out.println(this.nombre + " Dice: Guau Guau");
     }
 
     public String getRaza(){
