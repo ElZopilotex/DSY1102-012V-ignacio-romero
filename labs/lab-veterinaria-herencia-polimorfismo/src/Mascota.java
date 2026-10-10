@@ -14,3 +14,4 @@ public class Mascota extends Animal {
         this.esDomestico = esDomestico;
     }
 }
+
