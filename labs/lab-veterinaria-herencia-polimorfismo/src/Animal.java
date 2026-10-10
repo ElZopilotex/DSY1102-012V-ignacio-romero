@@ -13,10 +13,6 @@ public class Animal {
         System.out.println(this.nombre + " Esta comiendo");
     }
 
-    public void hacerSonido() {
-        System.out.println(this.nombre + " Emite un sonido característico");
-    }
-
     public String getNombre() {
         return nombre;
     }
@@ -39,5 +35,9 @@ public class Animal {
 
     public void setPeso(double peso) {
         this.peso = peso;
+    }
+
+    public void hacerSonido() {
+        System.out.println(this.nombre + " Emite un sonido característico");
     }
 }
