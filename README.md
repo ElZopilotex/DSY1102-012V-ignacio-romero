@@ -36,4 +36,4 @@ Este repositorio almacena el código fuente, documentaciones, devlogs y entregas
 ## Estado del Proyecto
 - **Estado:** Finalizado y completado exitosamente.
 - **Evidencias:** Documentación completa disponible en la carpeta `docs/` y `evidencias/`.
-- **Pruebas:** Flujo principal validado mediante la ejecución de la clase `Main`.
+- **Pruebas:** Flujo principal validado mediante la ejecución de la clase `Main2`.
