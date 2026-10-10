@@ -32,3 +32,8 @@ Este repositorio almacena el código fuente, documentaciones, devlogs y entregas
   - [Evaluación 2](evaluaciones/ev2/) - Evaluación 2
   - [Evaluación 3](evaluaciones/ev3/) - Evaluación 3
   - [Evaluación 4](evaluaciones/eft/) - Examen Final
+
+## Estado del Proyecto
+- **Estado:** Finalizado y completado exitosamente.
+- **Evidencias:** Documentación completa disponible en la carpeta `docs/` y `evidencias/`.
+- **Pruebas:** Flujo principal validado mediante la ejecución de la clase `Main`.
